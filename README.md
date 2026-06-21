@@ -166,12 +166,10 @@ Home-cooked meal delivery startup for students.
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Contribution Summary
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=viveksingaraddi&theme=algolia&row=2&column=4&no-frame=true"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveksingaraddi&theme=github_dark"/>
 </p>
 
 ---
@@ -199,12 +197,6 @@ Home-cooked meal delivery startup for students.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viveksingaraddi&theme=github_dark&utcOffset=5.5" width="49%"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/viveksingaraddi/viveksingaraddi/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
